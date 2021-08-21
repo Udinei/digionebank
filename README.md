@@ -1,17 +1,17 @@
 **PROJETO BÁSICO DA AULA - CONCEITO E PRÁTICAS SOBRE CLASSE**
 
 Pelo fato de não ter achado o projeto zerado no github do professor, 
-e querer acompanhar s aulas codificando e fazendo os exercícios, eu resolvi criar esse projeto zerado, 
-e subir pra o github pra compartilhar com vocês,pra quem quiser acompanhar as aulas sem ter criar o projeto do zero.
+e querer acompanhar as aulas codificando e fazendo os exercícios, eu resolvi criar esse projeto zerado, 
+e subir pra o github pra compartilhar com vocês, pra quem quiser acompanhar as aulas sem ter criar o projeto do zero.
 
-E pra quem quiser criar o projeto do zero estou, compartilho abaixo o passo a passo de
+E pra quem quiser criar o projeto do zero compartilho abaixo o passo a passo de
 criação do projeto no intellij.
 
 Você pode baixar o projeto zerado (básico) para acompanhar as aulas acessando o link abaixo.
 
 [git@github.com:Udinei/digionebank.git](mailto:git@github.com:Udinei/digionebank.git)
 
-ou você pode seguir os passos abaixo para criar do inicio seu projeto no Intellij
+ou você pode seguir os passos abaixo para criar um projeto zerado, igual o da estrutura do curso no Intellij.
 
 **CRIAÇÃO DO PROJETO NO INTELLIJ**
 
