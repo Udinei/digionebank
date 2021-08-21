@@ -10,9 +10,10 @@ e subir pra o github pra compartilhar com vocês, pra quem quiser acompanhar as 
 E pra quem quiser criar o projeto do zero compartilho abaixo o passo a passo de
 criação do projeto no intellij.
 
-Você pode baixar o projeto zerado (básico) para acompanhar as aulas acessando o link abaixo.
+Você pode baixar o projeto zerado (básico) para acompanhar as aulas acessando o link aqui no github.
 
-[git@github.com:Udinei/digionebank.git](mailto:git@github.com:Udinei/digionebank.git)
+Link para clonar o projeto
+![](img/clonando.png)
 
 ou você pode seguir os passos abaixo para criar um projeto zerado, igual o da estrutura do curso no Intellij.
 
