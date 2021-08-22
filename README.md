@@ -88,7 +88,7 @@ e colar (sobrepor) todo conteúdo no pom.xml do projeto
 
  
 
-Atualizando clicando no icone do plugin do Maven, atualizando assim automaticamento todo o projeto com novo conteúdo do pom.xml
+Atualizando o projeto... clique no icone do plugin do Maven, assim automaticamente todo o projeto será atualizado com o novo conteúdo do pom.xml
 
 ![](img/clip_image011.jpg)
 
