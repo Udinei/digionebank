@@ -70,6 +70,7 @@ O intellij irá criar o projeto baseado archetype do maven “maven-archetype.qu
 
 ![](img/clip_image009.jpg)
 
+Apague a pasta java das pastas main e test, e crie nessas mesmas pastas(main e test) a pasta Kotlin
  
 
 Copiar todo o conteúdo do arquivo pom.xml do projeto no endereço
