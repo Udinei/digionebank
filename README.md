@@ -10,7 +10,8 @@ e subir pra o github pra compartilhar com vocês, pra quem quiser acompanhar as 
 E pra quem quiser criar o projeto do zero compartilho abaixo o passo a passo de
 criação do projeto no intellij.
 
-Você pode baixar o projeto zerado (básico) para acompanhar as aulas acessando o link aqui no github.
+Você pode baixar o projeto zerado (básico) para acompanhar as aulas acessando o link do meu github https://github.com/Udinei/digionebank e clonando o projeto.
+
 
 Link para clonar o projeto
 ![](img/clonando.png)
@@ -65,9 +66,9 @@ Editando e confirmando os dados projeto
 
  
 
-O intellij cria o projeto baseado archetype do maven “maven-archetype.quickstart” com a seguinte estrutura
+O intellij irá criar o projeto baseado archetype do maven “maven-archetype.quickstart” com a seguinte estrutura
 
-![](img/clip_image009.png)
+![](img/clip_image009.jpg)
 
  
 
@@ -87,13 +88,13 @@ e colar (sobrepor) todo conteúdo no pom.xml do projeto
 
  
 
-Atualizando clicando no icone do plugin do Maven, atualizando assim o projeto com novo conteúdo do pom.xml
+Atualizando clicando no icone do plugin do Maven, atualizando assim automaticamento todo o projeto com novo conteúdo do pom.xml
 
 ![](img/clip_image011.jpg)
 
 Clique non icone para confirmar as alterações no projeto
 
-![](img/clip_image012.png)
+![](img/clip_image012.jpg)
 
  
 
