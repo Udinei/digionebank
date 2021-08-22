@@ -7,6 +7,10 @@ class Pessoa {
     var cpf: String = "123.123.123-15"
     //private set // somente o metodo set da classe é privado, nao pode ser alterado de fora da classe
 
+    constructor() // construtor secundario
+
+    fun pessoaInfo() = "$nome e $cpf"
+
     // recurso de classe interna
     inner class Endereco{
         var rua: String = "Rua teste"
@@ -15,11 +19,13 @@ class Pessoa {
 
 fun main(){
     val jether = Pessoa()
-    println(jether)
+    //println(jether)
     // jether.cpf = "123.123.123-15" // alterando o valor de fora da classe por isso tem que usar o metodo private na classe
-    println(jether.nome)
-    println(jether.cpf)
+    // println(jether.nome)
+    // println(jether.cpf)
 
-    println(jether.Endereco().rua)
+     println(jether.pessoaInfo())
+
+    //println(jether.Endereco().rua)
 
 }
